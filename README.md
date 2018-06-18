@@ -28,8 +28,6 @@ $ docker exec -it ${container} python manage.py startapp ${app} ${project}/${app
 ## Git
 ```bash
 $ git init
-$ git config --global user.name tat3
-$ git config --global user.email user@example.com
 $ git remote add origin https://github.com/tat3/hoge.git
 ```
 
